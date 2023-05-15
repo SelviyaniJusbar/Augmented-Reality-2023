@@ -1,1 +1,4 @@
-# Augmented-Reality-2023
+# Nama : Selviyani Jusbar
+# NIM : H071201008
+# Augmented Reality
+# Sistem Informasi 2020
